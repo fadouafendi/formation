@@ -1,6 +1,6 @@
-package service;
+package com.example.questionservice.service;
 
-import model.Question;
+import com.example.questionservice.model.Question;
 
 import java.util.List;
 

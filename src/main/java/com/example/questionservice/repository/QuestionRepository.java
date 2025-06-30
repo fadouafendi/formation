@@ -1,6 +1,6 @@
-package repository;
+package com.example.questionservice.repository;
 
-import model.Question;
+import com.example.questionservice.model.Question;
 import org.springframework.data.mongodb.repository.MongoRepository;
 
 import java.util.List;

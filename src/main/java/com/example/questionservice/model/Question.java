@@ -1,4 +1,4 @@
-package model;
+package com.example.questionservice.model;
 
 
 import org.springframework.data.annotation.Id;
@@ -8,7 +8,7 @@ import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.NotNull;
 import java.util.List;
 
-@Document ment(collection = "questions")
+@Document(collection = "questions")
 public class Question {
 
     @Id

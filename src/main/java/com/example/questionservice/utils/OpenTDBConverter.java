@@ -1,7 +1,7 @@
-package utils;
+package com.example.questionservice.utils;
 
-import dto.OpenTDBResponse;
-import model.Question;
+import com.example.questionservice.dto.OpenTDBResponse;
+import com.example.questionservice.model.Question;
 
 import java.util.List;
 
